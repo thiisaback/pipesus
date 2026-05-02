@@ -27,7 +27,7 @@ No setor de saúde brasileiro, a consistência dos dados cadastrais é um pilar 
 
 A pipeline foi desenhada utilizando uma **Arquitetura Medallion** orientada a eventos na AWS, garantindo escalabilidade, governança e separação clara das etapas de processamento.
 
-**[IMAGEM DA ARQUITETURA]**
+<img width="1920" height="1080" alt="DIAGRAMA DE ARQUITETURA DE DADOS (2)" src="https://github.com/user-attachments/assets/1c29ee0e-b1ad-44e1-9394-82aefc2923fa" />
 
 O fluxo de dados (*Data Flow*) ocorre da seguinte maneira:
 

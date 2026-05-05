@@ -1,5 +1,8 @@
+![Logo](docs/images/logo.png)
+
+---
+
 # PipeSUS
-> Pipeline de dados para ingestão e padronização de dados do DataSUS, projetada para resolver inconsistências cadastrais no setor de saúde com arquitetura moderna em nuvem.
 
 ![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
 
